@@ -16,13 +16,13 @@ html{
 hr {
     background-color: #ff305b;
     margin:2px auto;
+    border: solid #ff305b 1px;
 }
 .small-hr1 {
     width: 70px;
 }
 .large-hr1 {
     width: 150px;
-    border: solid #ff305b 1px;
 
 }
 
